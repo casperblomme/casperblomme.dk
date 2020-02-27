@@ -14,10 +14,12 @@
 
 
 
-#elementor-column-gap-default{
-	background-color:black !important;
+elementor-column-gap-default{
+	background-color:#f3f3f3 !important;
 }
-
-h1 {
-  color: green;
+site-header {
+	background-color:#f3f3f3;
+}
+main {
+	background-color:#f3f3f3;
 }
